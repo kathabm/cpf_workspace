@@ -1,12 +1,10 @@
-# PrimeValidator
+# cpf_workspace
 
-PrimeValidator is a simple Java application that determines whether a given integer is a prime number. The program prompts the user to input an integer within a specified range and then checks if the number is prime, displaying the result accordingly.
+cpf_workspace contains all the activities developed during the "Conceptos Fundamentales de Programacion "course  
 
-## Features
+## Activities developed
 
-- Checks if a number is prime or not.
-- Validates input to ensure it is within the specified range (2 to 2,000,000).
-- Outputs the result as "prime" or "not prime".
+- ActivityOne : Contains the Prime Validator Program.
 
 ## Requirements
 
@@ -17,4 +15,8 @@ PrimeValidator is a simple Java application that determines whether a given inte
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/kathabm/cpf_workspace.git
+   git clone https://github.com/kathabm/cpf_workspace.git```
+   
+2. **Navigate to the Project Directory**
+   ```bash
+   cd ActivityOne ```
